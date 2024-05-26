@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            // Visual Studio 2022 is sick tho
+            // Visual Studio 2022 is very sick tho
         }
     }
 }

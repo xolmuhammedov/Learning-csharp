@@ -12,6 +12,10 @@ namespace Variables
         {
             int firstNum = 100;
             Console.WriteLine("Hello can i take " + firstNum + " $");
+            string[] words = { "hello", "hi"};
+            object[] db = { firstNum , words };
+            Console.WriteLine(words[0]);
+            Console.WriteLine(db[1]);
             Console.ReadLine();
 
         }

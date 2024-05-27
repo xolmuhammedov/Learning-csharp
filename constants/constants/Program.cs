@@ -19,7 +19,7 @@ namespace constants
 
             //CONST
             const int max = 100;
-            max = 101; // ERROR IS HERE
+            //max = 101;                   // ERROR IS HERE
             Console.WriteLine(max); // the max cannot be changes because it is CONSTANT
 
 

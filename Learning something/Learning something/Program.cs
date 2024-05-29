@@ -27,14 +27,14 @@ namespace Learning_something
                 num++;
             }
 
-            string weather = "snowy";
+            int weather = 1;
             switch (weather)
             {
-                case "rainy":
+                case 2:
                     Console.WriteLine("Take your umbrella");
                     break;
 
-                case "snowy":
+                case 1:
                     Console.WriteLine("Wear more clother cuz it is snowy");
                     break;
 

@@ -28,5 +28,6 @@ class Program
         
         int someNum = 30;
         Console.WriteLine(someNum);
+        Console.WriteLine("so you think this is a fast leanguage");
     }
 }

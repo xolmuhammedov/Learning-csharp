@@ -20,6 +20,8 @@ namespace USER_INPUT
             Console.WriteLine("Your name is " + userName);
             Console.WriteLine("Your age is " + userAge);
             Console.WriteLine("You live in " + userLocation);
+
+            Console.ReadKey();
         }
     }
 }

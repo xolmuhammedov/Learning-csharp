@@ -10,6 +10,20 @@ namespace Operators
     {
         static void Main(string[] args)
         {
+            int sum1 = 10;
+            int sum2 = 15;
+
+            if (10 <= 20 || 20 <= 15 )
+            {
+                Console.WriteLine(true);
+            }
+            else
+            {
+                Console.WriteLine(false);
+            }
+
+            Console.ReadLine();
+
         }
     }
 }

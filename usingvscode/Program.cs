@@ -1,9 +1,4 @@
-﻿Console.WriteLine("Hello");
-
-for (int i = 0; i < 10; i++)
-{
-    Console.WriteLine("Hello World!");
-}
+﻿
 int userId = 3;
 switch (userId)
 {
@@ -12,5 +7,6 @@ switch (userId)
     break;
     default:
         Console.WriteLine(false);
-     break;
+    break;
 }
+

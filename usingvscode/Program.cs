@@ -2,9 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        string herName = "Lisa";
-        string hisName = "John";
-        string name = $"You guys use that name? {herName} {hisName}";
-        Console.WriteLine(name);
+        string input = Console.ReadLine();
+        Console.WriteLine(input);
+        Console.ReadKey();
     }
 }
+ 

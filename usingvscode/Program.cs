@@ -2,9 +2,9 @@
 {
     private static void Main(string[] args)
     {
-        string input = Console.ReadLine();
-        Console.WriteLine(input);
-        Console.ReadKey();
+        Console.WriteLine("Hello World");
+        bool userStatus = false;
+        Console.WriteLine(userStatus);
     }
 }
  

@@ -7,5 +7,5 @@
 //String - string
 
 int number = 10;
-number = -10;
+byte number2 = 25;
 Console.WriteLine(number);

@@ -9,7 +9,3 @@
 int nummber = 10;
 nummber = -10;
 Console.WriteLine(nummber);
-
-
-
-

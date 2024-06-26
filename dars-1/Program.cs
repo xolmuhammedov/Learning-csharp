@@ -6,6 +6,6 @@
 //Char - char
 //String - string
 
-int nummber = 10;
-nummber = -10;
-Console.WriteLine(nummber);
+int number = 10;
+number = -10;
+Console.WriteLine(number);

@@ -1,0 +1,15 @@
+D:\Codes\Learning-csharp\dars-1\bin\Debug\net8.0\dars-1.exe
+D:\Codes\Learning-csharp\dars-1\bin\Debug\net8.0\dars-1.deps.json
+D:\Codes\Learning-csharp\dars-1\bin\Debug\net8.0\dars-1.runtimeconfig.json
+D:\Codes\Learning-csharp\dars-1\bin\Debug\net8.0\dars-1.dll
+D:\Codes\Learning-csharp\dars-1\bin\Debug\net8.0\dars-1.pdb
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.AssemblyInfoInputs.cache
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.AssemblyInfo.cs
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.csproj.CoreCompileInputs.cache
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.sourcelink.json
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.dll
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\refint\dars-1.dll
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.pdb
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\dars-1.genruntimeconfig.cache
+D:\Codes\Learning-csharp\dars-1\obj\Debug\net8.0\ref\dars-1.dll

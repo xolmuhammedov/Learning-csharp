@@ -12,3 +12,5 @@ Console.WriteLine(number);
 
 string name = "julia";
 Console.WriteLine($"my name is  {name} " + 45);
+
+Console.ReadLine();

@@ -1,0 +1,7 @@
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\obj\Debug\Shape-Calculator.csproj.AssemblyReference.cache
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\obj\Debug\Shape-Calculator.csproj.CoreCompileInputs.cache
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\bin\Debug\Shape-Calculator.exe.config
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\bin\Debug\Shape-Calculator.exe
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\bin\Debug\Shape-Calculator.pdb
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\obj\Debug\Shape-Calculator.exe
+D:\Codes\Learning-csharp\Shape-Calculator\Shape-Calculator\obj\Debug\Shape-Calculator.pdb

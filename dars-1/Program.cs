@@ -15,8 +15,6 @@ Console.WriteLine($"my name is  {name} " + 45);
 int[] numbers = {56,45,15};
 Console.WriteLine(numbers);
 
-
-
 Console.ReadLine();
 
 

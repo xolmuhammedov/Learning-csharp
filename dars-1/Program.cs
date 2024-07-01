@@ -17,4 +17,8 @@ Console.WriteLine(numbers);
 
 
 
+Console.ReadLine();
+
+
+
 

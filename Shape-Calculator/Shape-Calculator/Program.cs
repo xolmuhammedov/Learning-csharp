@@ -41,7 +41,5 @@ namespace Shape_Calculator
             Console.WriteLine("The result is" + result);
             Console.ReadKey();
         }
-
-
     }
 }
